@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUTRd5yBcq4dzQmUk46dFxaki+LwkOPaXGW8oXwyvH6Dm1q/bSWvqtSnsEH/7PmnaZyyzmNz2MIKmEbPd+WS7A==",
+  "success": false,
+  "projectFilePath": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Presentation\\Inventory.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Inventory.Application is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Inventory.Application supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Inventory.Application",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Inventory.Application.Contract is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Inventory.Application.Contract supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Inventory.Application.Contract",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
