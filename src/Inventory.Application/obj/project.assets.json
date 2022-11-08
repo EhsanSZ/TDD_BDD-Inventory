@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Inventory.Application.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Inventory.Application.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inventory.Application.Contract.dll": {}
+        }
+      },
+      "Inventory.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Inventory.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inventory.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventory.Application.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Inventory.Application.Contract/Inventory.Application.Contract.csproj",
+      "msbuildProject": "../Inventory.Application.Contract/Inventory.Application.Contract.csproj"
+    },
+    "Inventory.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Inventory.Domain/Inventory.Domain.csproj",
+      "msbuildProject": "../Inventory.Domain/Inventory.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Inventory.Application.Contract >= 1.0.0",
+      "Inventory.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ehsan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Application\\Inventory.Application.csproj",
+      "projectName": "Inventory.Application",
+      "projectPath": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Application\\Inventory.Application.csproj",
+      "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
+      "outputPath": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Application.Contract\\Inventory.Application.Contract.csproj": {
+              "projectPath": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Application.Contract\\Inventory.Application.Contract.csproj"
+            },
+            "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Domain\\Inventory.Domain.csproj": {
+              "projectPath": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Domain\\Inventory.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

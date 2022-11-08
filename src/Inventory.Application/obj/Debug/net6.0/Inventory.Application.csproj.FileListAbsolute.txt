@@ -1,0 +1,17 @@
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.AssemblyInfo.cs
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\bin\Debug\net6.0\Inventory.Application.deps.json
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\bin\Debug\net6.0\Inventory.Application.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\bin\Debug\net6.0\Inventory.Application.pdb
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\bin\Debug\net6.0\Inventory.Application.Contract.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\bin\Debug\net6.0\Inventory.Domain.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\bin\Debug\net6.0\Inventory.Application.Contract.pdb
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\bin\Debug\net6.0\Inventory.Domain.pdb
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.csproj.CopyComplete
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\refint\Inventory.Application.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\Inventory.Application.pdb
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Application\obj\Debug\net6.0\ref\Inventory.Application.dll
