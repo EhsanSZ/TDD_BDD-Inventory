@@ -1,0 +1,12 @@
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\bin\Debug\net6.0\Inventory.Domain.deps.json
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\bin\Debug\net6.0\Inventory.Domain.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\bin\Debug\net6.0\Inventory.Domain.pdb
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.AssemblyInfo.cs
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\refint\Inventory.Domain.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\Inventory.Domain.pdb
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Domain\obj\Debug\net6.0\ref\Inventory.Domain.dll
