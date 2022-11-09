@@ -9,7 +9,9 @@
       "Inventory.Tests.E2E/1.0.0": {
         "dependencies": {
           "FluentAssertions": "6.2.0",
+          "Inventory.Application.Contract": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.0.0",
+          "RestSharp": "108.0.2",
           "SpecFlow.Plus.LivingDocPlugin": "3.9.57",
           "SpecFlow.xUnit": "3.9.40",
           "xunit": "2.4.1",
@@ -454,6 +456,14 @@
           "lib/netstandard2.0/NuGet.Frameworks.dll": {
             "assemblyVersion": "5.0.0.6",
             "fileVersion": "5.0.0.5923"
+          }
+        }
+      },
+      "RestSharp/108.0.2": {
+        "runtime": {
+          "lib/net6.0/RestSharp.dll": {
+            "assemblyVersion": "108.0.2.0",
+            "fileVersion": "108.0.2.0"
           }
         }
       },
@@ -1287,6 +1297,11 @@
             "fileVersion": "1.3.12.62151"
           }
         }
+      },
+      "Inventory.Application.Contract/1.0.0": {
+        "runtime": {
+          "Inventory.Application.Contract.dll": {}
+        }
       }
     }
   },
@@ -1407,6 +1422,13 @@
       "sha512": "sha512-c5JVjuVAm4f7E9Vj+v09Z9s2ZsqFDjBpcsyS3M9xRo0bEdm/LVZSzLxxNvfvAwRiiE8nwe1h2G4OwiwlzFKXlA==",
       "path": "nuget.frameworks/5.0.0",
       "hashPath": "nuget.frameworks.5.0.0.nupkg.sha512"
+    },
+    "RestSharp/108.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zI1lzI+Jjzl6bcicyUYfLIGmmOAdJRkYepMnSPzrxd1o9RxztPaR/blUOmY8BpXdN3I+XlK9dtwCYRGCxvaODw==",
+      "path": "restsharp/108.0.2",
+      "hashPath": "restsharp.108.0.2.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {
       "type": "package",
@@ -2058,6 +2080,11 @@
       "sha512": "sha512-CQETcfKyEq6Uki9pExNZI5sEHeKqdt9Fc4pdLHu1mgaboQp0aI4W45M+UUnG6Zc2hxWTDmbD2AFVKA1wjU19YA==",
       "path": "xunit.skippablefact/1.3.12",
       "hashPath": "xunit.skippablefact.1.3.12.nupkg.sha512"
+    },
+    "Inventory.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

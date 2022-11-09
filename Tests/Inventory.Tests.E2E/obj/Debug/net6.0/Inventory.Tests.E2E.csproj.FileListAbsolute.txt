@@ -113,3 +113,6 @@ D:\MyProje\ASP.Net\TDD2\InventoryManagement\Tests\Inventory.Tests.E2E\obj\Debug\
 D:\MyProje\ASP.Net\TDD2\InventoryManagement\Tests\Inventory.Tests.E2E\obj\Debug\net6.0\Inventory.Tests.E2E.pdb
 D:\MyProje\ASP.Net\TDD2\InventoryManagement\Tests\Inventory.Tests.E2E\obj\Debug\net6.0\Inventory.Tests.E2E.genruntimeconfig.cache
 D:\MyProje\ASP.Net\TDD2\InventoryManagement\Tests\Inventory.Tests.E2E\obj\Debug\net6.0\ref\Inventory.Tests.E2E.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\Tests\Inventory.Tests.E2E\bin\Debug\net6.0\RestSharp.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\Tests\Inventory.Tests.E2E\bin\Debug\net6.0\Inventory.Application.Contract.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\Tests\Inventory.Tests.E2E\bin\Debug\net6.0\Inventory.Application.Contract.pdb

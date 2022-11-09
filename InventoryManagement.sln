@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DB2434B9-D331-41E2-8FBC-203F790EC976}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestResults", "TestResults", "{32BF97D8-5E45-4A70-B74B-31CA8FC79FB9}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{39805DD7-3BCF-4421-A7CE-9EA291D2F2D1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Tests.E2E", "Tests\Inventory.Tests.E2E\Inventory.Tests.E2E.csproj", "{D116665F-5AD4-4FEC-A46F-FD975ABBE9C4}"
@@ -25,9 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Presentation.Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Presentation", "src\Inventory.Presentation\Inventory.Presentation.csproj", "{54A5E9D0-E0C8-4025-BE42-D9F6CA893783}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Infrastructure", "src\Inventory.Infrastructure\Inventory.Infrastructure.csproj", "{E6F7B93E-A49A-4000-8D62-E0935B7B18A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Infrastructure", "src\Inventory.Infrastructure\Inventory.Infrastructure.csproj", "{E6F7B93E-A49A-4000-8D62-E0935B7B18A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Presentation.Tests.Integration", "Tests\Inventory.Presentation.Tests.Integration\Inventory.Presentation.Tests.Integration.csproj", "{279E0E1D-D685-4EFE-8B3A-F0349173B206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory.Presentation.Tests.Integration", "Tests\Inventory.Presentation.Tests.Integration\Inventory.Presentation.Tests.Integration.csproj", "{279E0E1D-D685-4EFE-8B3A-F0349173B206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

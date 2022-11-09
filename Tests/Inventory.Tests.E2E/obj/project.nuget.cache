@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BjHjzq2QO97wzPT+yVBfYdtXLsOPBlgJifzwJ98jb9AO8myvjqlf6FZ8gyCAwdUrftJL7+jiQbOa7KY1gJ5vCw==",
+  "dgSpecHash": "dpheduGe1jnoJAiJjC+3o8hoptyX9GaPbhpbM+1MXBKmNjxCKzNERT4eFmCWQwipRWTKVK5EEyvnHXuaHTSbog==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\Tests\\Inventory.Tests.E2E\\Inventory.Tests.E2E.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
