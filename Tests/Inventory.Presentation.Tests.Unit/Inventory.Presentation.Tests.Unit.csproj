@@ -26,7 +26,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Inventory.Application.Contract\Inventory.Application.Contract.csproj" />
-    <ProjectReference Include="..\..\src\Inventory.Application\Inventory.Application.csproj" />
     <ProjectReference Include="..\..\src\Inventory.Presentation\Inventory.Presentation.csproj" />
   </ItemGroup>
 
