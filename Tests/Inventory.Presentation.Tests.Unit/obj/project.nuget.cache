@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OHj9hHGknjMPXpoxlbYk7c3CzkeQ+ntvVEwdfa9E/qJQYg/YGvCKJwyRyP0PKShfR3yz9lxpYDw9yRT8kxt6eQ==",
+  "dgSpecHash": "ZsOUGdbot1zpR28WQYgvb051NjoWkYfMAVN54i+Fi5YI84Uv48TIM3dRyURtvhLlbHLlPJF2Z4Jh19cC9sDeJA==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\Tests\\Inventory.Presentation.Tests.Unit\\Inventory.Presentation.Tests.Unit.csproj",
   "expectedPackageFiles": [

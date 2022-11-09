@@ -66,3 +66,5 @@ D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Presentation\bin\Debug
 D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Presentation\bin\Debug\net6.0\Inventory.Infrastructure.dll
 D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Presentation\bin\Debug\net6.0\Inventory.Infrastructure.pdb
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Presentation\bin\Debug\net6.0\Humanizer.dll
+D:\MyProje\ASP.Net\TDD2\InventoryManagement\src\Inventory.Presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

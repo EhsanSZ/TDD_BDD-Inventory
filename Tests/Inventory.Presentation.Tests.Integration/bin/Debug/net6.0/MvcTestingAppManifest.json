@@ -1,0 +1,7 @@
+{
+  "Inventory.Application.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Application.Contract",
+  "Inventory.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Application",
+  "Inventory.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Domain",
+  "Inventory.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Infrastructure",
+  "Inventory.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyProje\\ASP.Net\\TDD2\\InventoryManagement\\src\\Inventory.Presentation"
+}
